@@ -2,25 +2,25 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 23,
-            "title": "Check out new Shenanigans arrivals.",
+            "version": 25,
+            "title": "Check out new GGEZ arrivals.",
             "body": null,
-            "avatar": "https://cdn.discordapp.com/assets/content/8aa0f3367cea8be575e303bdf0e19e9f3fff9628ee7016529c030148e497b1e6.png",
+            "avatar": "https://cdn.discordapp.com/assets/content/560b7b3fe62a62e65e04de683b261d070338555b6f86f44adfd8abf5da852613.png",
             "decorations": [
-                "a_0e50ebc16aa67676687222d0b9b51eb2",
-                "a_4774e1f97ebd4a8cc8f71668f3b418e4",
-                "a_1e69b40cf0f52b68c511070dd7a29f34"
+                "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+                "a_9450b11728cd18bf686d45513559ddb1",
+                "a_fbbdd5565db1c91d95804f7df0074c5a"
             ],
             "dismissible_content": 422,
             "ref_target_background": null
         },
         "2": {
             "type": 2,
-            "version": 23,
+            "version": 25,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations and profile effects and collect your favourite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/4640d16a22609eabe4d7e0125808b589c867b870015a1c57af0f04c3b1414a11.png",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/b9495c86dd8ed44394e30d71a477fe9a2f608d38d9a477b84b8f770d90353a2e.png"
+            "asset": "https://cdn.discordapp.com/assets/content/5d02fdeeaa2d7d08e4224ba5373fa5d5649be588c71ef6bbc6d2f2630edcd712.png",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/c9b490431de6136850da7293a43eda767be434cf14012bd825b9e21cffead39b.png"
         }
     }
 }

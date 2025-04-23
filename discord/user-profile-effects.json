@@ -8216,6 +8216,307 @@
                     "randomizedSources": []
                 }
             ]
+        },
+        {
+            "type": 1,
+            "id": "1354894010782847179",
+            "sku_id": "1354894010761744455",
+            "title": "Lazy Loaf",
+            "description": "Ahhh, to be a lazy loaf :3",
+            "accessibilityLabel": "A freshly baked bread dog strolls and lies down comfortably before being picked up and away with tongs.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6875,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2208,
+                    "start": 6875,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1354894010803818666",
+            "sku_id": "1354894010790969454",
+            "title": "Capyccino",
+            "description": "Pour yourself a cup!",
+            "accessibilityLabel": "Two capybaras and a duck relax on their spa day in a hot cup of cappuccino.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-02/capyccino/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-02/capyccino/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-02/capyccino/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 6750,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-02/capyccino/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3417,
+                    "start": 6750,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1354894010828722259",
+            "sku_id": "1354894010811941054",
+            "title": "Pancake Pals",
+            "description": "So floofy! So soft! So sweet!",
+            "accessibilityLabel": "Lively animal-shaped pancakes, syrup and berries fly into view for what\u2019ll make for a sweet and delicious treat.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2500,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2833,
+                    "start": 2500,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1357589632660934656",
+            "sku_id": "1357589632644022373",
+            "title": "Keyboard Cats",
+            "description": "What\u2019s wrong? Cat got your keyboard?",
+            "accessibilityLabel": "Happy cats playing on keyboards zoom around leaving streaks of rainbows.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/keyboard_cat/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/keyboard_cat/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/keyboard_cat/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/keyboard_cat/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 4000,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1357589632673644615",
+            "sku_id": "1357589632434569226",
+            "title": "F in Chat (Black)",
+            "description": "Pay your respects.",
+            "accessibilityLabel": "Spamming a black F key causes a slew of rainbow-coloured Fs to appear over your profile.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_black/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_black/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_black/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_black/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 3500,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1357589632690425856",
+            "sku_id": "1357589632438636654",
+            "title": "F in Chat (White)",
+            "description": "Pay your respects.",
+            "accessibilityLabel": "Spamming a white F key causes a slew of rainbow-coloured Fs to appear over your profile.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_white/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_white/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_white/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/f_in_chat_white/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 3500,
+                    "loopDelay": 4000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "id": "1357589632711397386",
+            "sku_id": "1357589632694616175",
+            "title": "Sweet Copium",
+            "description": "If they beat you, they\u2019re cheating.",
+            "accessibilityLabel": "A copium cannister leaks out a cloud of copium gas that covers your profile. Hold your breath if you can.",
+            "animationType": 2,
+            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/copium/thumbnail.png",
+            "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/copium/reduced_motion.png",
+            "effects": [
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/copium/intro.png",
+                    "loop": false,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 0,
+                    "loopDelay": 0,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 100,
+                    "randomizedSources": []
+                },
+                {
+                    "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-04-05/copium/idle.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 3000,
+                    "start": 4000,
+                    "loopDelay": 3000,
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "zIndex": 101,
+                    "randomizedSources": []
+                }
+            ]
         }
     ]
 }
